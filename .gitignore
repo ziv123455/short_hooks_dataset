@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# But allow folders
+!*/
+
+# Allow Git ignore file
+!.gitignore
+
+# Allow only these folders
+!5 second videos/**
+!5 seconds audios/**
+!5 seconds transcripts/**
