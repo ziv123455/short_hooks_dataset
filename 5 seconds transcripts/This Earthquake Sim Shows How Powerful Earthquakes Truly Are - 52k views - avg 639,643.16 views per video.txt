@@ -1,0 +1,1 @@
+This earthquake simulator in Japan shows just how powerful real earthquakes can be. It starts by recreating the Kobe earthquake,
